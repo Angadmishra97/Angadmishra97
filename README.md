@@ -1,6 +1,6 @@
 🚀 Hi, I'm Angad Mishra
 
-💻 Backend Developer | System Design Enthusiast | Problem Solver
+💻 Software Programmer | System Design Enthusiast | Problem Solver
 
 I love building scalable systems, optimizing performance, and designing clean APIs that actually work in real-world scenarios.
 
@@ -12,8 +12,8 @@ I love building scalable systems, optimizing performance, and designing clean AP
 🔹 Exploring scalable architectures & real-time systems
 🔹 Always learning and building
 📫 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/your-link
-📧 Email: yourmail@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/angad-mishra/
+📧 Email: angadmishra857@gmail.com
 🌱 Current Focus
 Building production-level backend projects
 Improving DSA + system design

@@ -5,7 +5,7 @@
 I’m a Computer Science student focused on building efficient applications and solving real-world problems through clean code and strong fundamentals in system design and data structures.
 
 ⚡ Tech Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,cpp,js,react,html,css,mysql,spring,git" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,mysql,spring,git" /> </p>
 
 🧠 About Me
 
@@ -29,8 +29,11 @@ I’m a Computer Science student focused on building efficient applications and 
 
 🌱 Current Focus
 Strengthening DSA & problem-solving
+
 Learning Spring Boot & backend architecture deeply
+
 Building production-level projects
+
 ⭐
 
 Consistency > Motivation ⚡

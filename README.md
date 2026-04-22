@@ -6,11 +6,17 @@ I’m a Computer Science student focused on building efficient applications and 
 
 ⚡ Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,cpp,js,react,html,css,mysql,spring,git" /> </p>
+
 🧠 About Me
+
 🔹 B.Tech CSE student (CGPA: 8.0)
+
 🔹 Strong in Data Structures & Algorithms + OOPs
+
 🔹 Hands-on experience with Java, MySQL & Spring Boot
+
 🔹 Solved 450+ problems on LeetCode & coding platforms
+
 🔹 Interested in backend development & scalable systems
 
 📫 Connect With Me

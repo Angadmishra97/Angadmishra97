@@ -1,39 +1,47 @@
-🚀 Hi, I'm Angad Mishra
+# 🚀 Hi, I'm Angad Mishra  
 
-💻 Software Developer | Java & Backend Enthusiast | Problem Solver
+💻 Software Developer | Java & Backend Enthusiast | Problem Solver  
 
-I’m a Computer Science student focused on building efficient applications and solving real-world problems through clean code and strong fundamentals in system design and data structures.
+I’m a Computer Science student focused on building efficient applications and solving real-world problems using strong fundamentals in Data Structures, OOPs, and backend development.
 
-⚡ Tech Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,mysql,spring,git" /> </p>
+---
 
-🧠 About Me
+## ⚡ Tech Stack  
 
-🔹 B.Tech CSE student (CGPA: 8.0)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,mysql,spring,git" />
+</p>
 
-🔹 Strong in Data Structures & Algorithms + OOPs
+---
 
-🔹 Hands-on experience with Java, MySQL & Spring Boot
+## 🧠 About Me  
 
-🔹 Solved 450+ problems on LeetCode & coding platforms
+- 🎓 B.Tech in Computer Science Engineering (CGPA: 8.0)  
+- 💡 Strong in **Data Structures, Algorithms & OOPs**  
+- ⚙️ Experience with **Java, MySQL & Spring Boot**  
+- 🧩 Solved **450+ problems on LeetCode & coding platforms**  
+- 🚀 Interested in **Backend Development & Scalable Systems**  
 
-🔹 Interested in backend development & scalable systems
+---
 
-📫 Connect With Me
+## 📫 Connect With Me  
 
-💼 LinkedIn: https://www.linkedin.com/in/angad-mishra-2827911ab
+- 💼 LinkedIn: [angad-mishra](https://www.linkedin.com/in/angad-mishra-2827911ab)  
+- 💻 LeetCode: [angadmishra97](https://leetcode.com/u/angadmishra97/)  
+- 📧 Email: angadmishra857@gmail.com  
 
-💻 LeetCode: https://leetcode.com/u/angadmishra97/
+---
 
-📧 Email: angadmishra857@gmail.com
+## 🌱 Current Focus  
 
-🌱 Current Focus
-Strengthening DSA & problem-solving
+- 📌 Improving **DSA & problem-solving skills**  
+- 📌 Learning **Spring Boot & backend architecture**  
+- 📌 Building **production-level projects**  
 
-Learning Spring Boot & backend architecture deeply
+---
 
-Building production-level projects
+## ⭐  
 
-⭐
+> *Consistency beats intensity.* ⚡  
 
-Consistency > Motivation ⚡
+---

@@ -1,20 +1,25 @@
 🚀 Hi, I'm Angad Mishra
 
-💻 Software Programmer | System Design Enthusiast | Problem Solver
+💻 Software Developer | Java & Backend Enthusiast | Problem Solver
 
-I love building scalable systems, optimizing performance, and designing clean APIs that actually work in real-world scenarios.
+I’m a Computer Science student focused on building efficient applications and solving real-world problems through clean code and strong fundamentals in system design and data structures.
 
 ⚡ Tech Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,redis,java,docker,jenkins" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,cpp,js,react,html,css,mysql,spring,git" /> </p>
 🧠 About Me
-🔹 Backend-focused Full Stack Developer
-🔹 Strong grip on Node.js, APIs & System Design
-🔹 Exploring scalable architectures & real-time systems
-🔹 Always learning and building
+🔹 B.Tech CSE student (CGPA: 8.0)
+🔹 Strong in Data Structures & Algorithms + OOPs
+🔹 Hands-on experience with Java, MySQL & Spring Boot
+🔹 Solved 450+ problems on LeetCode & coding platforms
+🔹 Interested in backend development & scalable systems
 📫 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/angad-mishra/
+💼 LinkedIn: https://www.linkedin.com/in/angad-mishra-2827911ab
+💻 LeetCode: https://leetcode.com/u/angadmishra97/
 📧 Email: angadmishra857@gmail.com
 🌱 Current Focus
-Building production-level backend projects
-Improving DSA + system design
-Learning advanced scalability concepts
+Strengthening DSA & problem-solving
+Learning Spring Boot & backend architecture deeply
+Building production-level projects
+⭐
+
+Consistency > Motivation ⚡

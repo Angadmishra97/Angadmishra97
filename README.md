@@ -18,7 +18,7 @@
   </a>
 </p>
 
-#<img src="https://komarev.com/ghpvc/?username=angadmishra97&style=flat-square&color=00e5ff&label=PROFILE+VIEWS" #alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=angadmishra97&style=flat-square&color=00e5ff&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 

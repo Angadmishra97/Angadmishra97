@@ -19,7 +19,7 @@ I’m a Computer Science student focused on building efficient applications and 
 - 🎓 B.Tech in Computer Science Engineering (CGPA: 8.0)  
 - 💡 Strong in **Data Structures, Algorithms & OOPs**  
 - ⚙️ Experience with **Java, MySQL & Spring Boot**  
-- 🧩 Solved **450+ problems on LeetCode & coding platforms**  
+- 🧩 Solved **500+ problems on LeetCode & coding platforms**  
 - 🚀 Interested in **Backend Development & Scalable Systems**  
 
 ---
